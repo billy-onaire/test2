@@ -1,3 +1,2 @@
 ﻿branch test : test
-master
-conflict test
+pull request check 
